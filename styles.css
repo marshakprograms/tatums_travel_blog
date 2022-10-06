@@ -24,12 +24,13 @@ header {
 }
 
 body {
-    background-color: #73c9da;
+    background-color: #e0f6fb;
 }
 
-#first-article {
+#first-article, #second-article {
     background: linear-gradient(0DEG, rgba(255,255,255,1) 0%, rgba(9,9,121,0) 35%, rgba(115,201,218,0.8) 100%);
 }
+
 
 
 /* link styles */
